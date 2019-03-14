@@ -1,0 +1,19 @@
+{
+  "name": "lead-summary-email",
+  "version": "1.0.0",
+  "description": "\" \"",
+  "main": "index.js",
+  "scripts": {
+    "test": " script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsmaelSANE/lead-summary-email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsmaelSANE/lead-summary-email/issues"
+  },
+  "homepage": "https://github.com/IsmaelSANE/lead-summary-email#readme"
+}
